@@ -1,5 +1,7 @@
+This is a forked project from https://gitlab.com/mpv-ipc/ncmpvc.
+
 ![ncmpvc screenshot](https://github.com/archusXIV/ncmpvc/blob/main/res/logo.png "logo")
-# ncmpvc (ncurses mpv client, forked from https://gitlab.com/mpv-ipc/ncmpvc)
+# ncmpvc (ncurses mpv client)
 
 A ncurses client for mpv which connects to existing mpv instances through sockets, written in Rust.
 

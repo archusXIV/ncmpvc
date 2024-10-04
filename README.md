@@ -25,7 +25,7 @@ $ mpv --input-ipc-server=/tmp/mpvsocket ...
 
 ## Install
 
-- [Arch](https://aur.archlinux.org/packages/ncmpvc-git) - `yaourt ncmpvc-git`
+- [Arch](https://aur.archlinux.org/packages/ncmpvc-git) - `yay -S ncmpvc-git`
 
 If you have packaged mpvc for your distribution, let me know so I can add it here.
 

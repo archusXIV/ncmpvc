@@ -1,0 +1,9 @@
+[package]
+name = "ncmpvc"
+version = "0.0.1"
+authors = ["Jonas Frei <freijon@gmail.com>"]
+
+[dependencies]
+ncurses = "5.85.0"
+mpvipc = "=1.1.5"
+#mpvipc = { path = "/home/jonas/Documents/Projects/mpvipc" }

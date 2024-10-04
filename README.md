@@ -1,4 +1,4 @@
-![ncmpvc screenshot](https://gitlab.com/mpv-ipc/ncmpvc/raw/master/res/logo.png "logo")
+![ncmpvc screenshot](https://github.com/archusXIV/ncmpvc/blob/main/res/logo.png "logo")
 # ncmpvc (ncurses mpv client)
 
 A ncurses client for mpv which connects to existing mpv instances through sockets, written in Rust.
@@ -10,7 +10,7 @@ It makes use of mpv's JSON IPC protocol to control any mpv instance over a given
 This app is in early development stage and _will_ contain bugs.
 If you are a bug-hunter, feel free to use the app and report bugs at the [Issue Tracker](https://gitlab.com/mpv-ipc/ncmpvc/issues).
 
-![ncmpvc screenshot](https://gitlab.com/mpv-ipc/ncmpvc/raw/master/ncmpvc.png "ncmpvc screenshot")
+![ncmpvc screenshot](https://github.com/archusXIV/ncmpvc/blob/main/ncmpvc.png "ncmpvc screenshot")
 
 Make sure mpv is started with the following option:
 `
